@@ -2,7 +2,9 @@ hello1
 热修1次
 master分支冲突
 hot-fix分支冲突
-分支冲突解决了
+分支冲突解决
 damozhe在github更改了内容
 账号2在本地更改了内容
 账号3在github更改了内容
+账号1新增了内容
+
